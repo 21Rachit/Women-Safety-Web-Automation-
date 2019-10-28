@@ -1,4 +1,5 @@
 # Women-Safety-Web-Automation
+(Important Note- The above file runs only on the Uipath Software which is a third party automation tool)
 Scenario:
 
 Suppose a  lady is going back home late at night after completing her office routine. And suddenly a stranger starts following her
